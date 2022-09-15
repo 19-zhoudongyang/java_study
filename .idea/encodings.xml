@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/JavaSE/src/ProxyDemo/Proxydemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/ThreadDemo/demo1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/demo1/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/demo1/test2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/io/test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaSE/src/string/test2.java" charset="GBK" />
+  </component>
+</project>

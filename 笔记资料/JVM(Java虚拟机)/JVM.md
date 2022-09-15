@@ -1,0 +1,10 @@
+#前置：java的执行流程
+![1](JVM_pic/JVM04.png)
+![1](JVM_pic/JVM05.png)
+#一、JVM的位置
+![1](JVM_pic/JVM01.png)
+![1](JVM_pic/JVM02.png)
+#二、JVM的整体结构
+![1](JVM_pic/JVM03.png)
+#三、JVM的架构模型
+![1](JVM_pic/JVM06.png)
