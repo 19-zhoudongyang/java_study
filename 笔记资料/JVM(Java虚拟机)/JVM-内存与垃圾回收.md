@@ -154,3 +154,38 @@
 >>>>>> ![1](JVM_pic/JVM112.PNG)
 >>>>>> ![1](JVM_pic/JVM113.PNG)
 >>>>>> ![1](JVM_pic/JVM114.PNG)
+###### 一些附加信息
+>>>>>> ![1](JVM_pic/JVM115.PNG)
+#### 栈的相关面试题
+>>>> ![1](JVM_pic/JVM116.PNG)
+>>>> ![1](JVM_pic/JVM117.PNG)
+### (3)本地方法栈
+#### 概述
+>>>> ![1](JVM_pic/JVM124.PNG)
+>>>> ![1](JVM_pic/JVM125.PNG)
+>>>> ![1](JVM_pic/JVM126.PNG)
+### (4)堆
+#### 概述
+>>>> ![1](JVM_pic/JVM127.PNG)
+>>>> ![1](JVM_pic/JVM128.PNG)
+#### 设置堆内存大小与OOM
+#### 年轻代与老年代
+#### 图解对象的分配过程
+#### Minor GC、Major GC、Full GC
+#### 堆空间分配思想
+#### 内存分配策略
+#### 为对象分配内存：TLAB
+#### 小结堆空间的参数设置
+#### 堆是分配对象的唯一选择吗
+---
+# 四、本地方法库和本地方法接口
+> ![1](JVM_pic/JVM118.PNG)
+## 概述
+### 什么是本地方法
+>>> ![1](JVM_pic/JVM119.PNG)
+>>> ![1](JVM_pic/JVM120.PNG)
+### 为什么要使用Native Method
+>>> ![1](JVM_pic/JVM121.PNG)
+>>> ![1](JVM_pic/JVM122.PNG)
+### 现状
+>>> ![1](JVM_pic/JVM123.PNG)
