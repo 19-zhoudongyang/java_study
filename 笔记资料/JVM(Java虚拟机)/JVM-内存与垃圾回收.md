@@ -168,7 +168,12 @@
 #### 概述
 >>>> ![1](JVM_pic/JVM127.PNG)
 >>>> ![1](JVM_pic/JVM128.PNG)
+>>>> ![1](JVM_pic/JVM129.PNG)
+>>>> ![1](JVM_pic/JVM130.PNG)
+>>>> ![1](JVM_pic/JVM131.PNG)
+>>>> ![1](JVM_pic/JVM132.PNG)
 #### 设置堆内存大小与OOM
+>>>> ![1](JVM_pic/JVM133.PNG)
 #### 年轻代与老年代
 #### 图解对象的分配过程
 #### Minor GC、Major GC、Full GC
