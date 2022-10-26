@@ -392,6 +392,8 @@
 >> ![1](JVM_pic/JVM297.PNG)
 >> ![1](JVM_pic/JVM298.PNG)
 >> ![1](JVM_pic/JVM299.PNG)
+>> ![1](JVM_pic/JVM300.PNG)
+>> ![1](JVM_pic/JVM301.PNG)
 ## intern()的使用
 ## StringTable的垃圾回收
 ## G1中的String去重操作
