@@ -286,6 +286,7 @@
 >>> ![1](JVM_pic/JVM122.PNG)
 ### 现状
 >>> ![1](JVM_pic/JVM123.PNG)
+---
 # 五、执行引擎
 ## 概述
 >> ![1](JVM_pic/JVM241.PNG)
@@ -331,6 +332,22 @@
 >> ![1](JVM_pic/JVM278.PNG)
 ## 关于解释器和JIT编译器的设置
 >> ![1](JVM_pic/JVM273.PNG)
+## 垃圾回收(GC)
+### 垃圾回收的概述
+#### 什么是垃圾
+>>>> ![1](JVM_pic/JVM306.PNG)
+>>>> ![1](JVM_pic/JVM307.PNG)
+>>>> ![1](JVM_pic/JVM309.PNG)
+#### 为什么需要GC
+>>>> ![1](JVM_pic/JVM310.PNG)
+#### 早期垃圾回收
+#### Java垃圾回收机制
+### 垃圾回收相关算法
+### 垃圾回收相关概念
+### 垃圾回收器
+#### 面试题
+>>>> ![1](JVM_pic/JVM308.PNG)
+---
 # 插入内容1、对象的实例化内存布局与访问定位
 ## 对象的实例化
 >> ![1](JVM_pic/JVM216.PNG)
@@ -391,9 +408,13 @@
 >> ![1](JVM_pic/JVM296.PNG)
 >> ![1](JVM_pic/JVM297.PNG)
 >> ![1](JVM_pic/JVM298.PNG)
+## intern()的使用
 >> ![1](JVM_pic/JVM299.PNG)
 >> ![1](JVM_pic/JVM300.PNG)
 >> ![1](JVM_pic/JVM301.PNG)
-## intern()的使用
 ## StringTable的垃圾回收
 ## G1中的String去重操作
+>> ![1](JVM_pic/JVM302.PNG)
+>> ![1](JVM_pic/JVM303.PNG)
+>> ![1](JVM_pic/JVM304.PNG)
+>> ![1](JVM_pic/JVM305.PNG)
