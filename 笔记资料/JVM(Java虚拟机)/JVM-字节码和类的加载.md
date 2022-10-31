@@ -1,0 +1,23 @@
+[toc]
+# 一、Class文件结构
+## 概述
+### 字节码文件的跨平台性
+>>> ![1](/JVM_pic-mid/JVM01.PNG)
+### java的前端编译器
+>>> ![1](/JVM_pic-mid/JVM02.PNG)
+>>> ![1](/JVM_pic-mid/JVM03.PNG)
+>>> ![1](/JVM_pic-mid/JVM04.PNG)
+>>> ![1](/JVM_pic-mid/JVM05.PNG)
+>>> ![1](/JVM_pic-mid/JVM06.PNG)
+>>> ![1](/JVM_pic-mid/JVM07.PNG)
+>>> ![1](/JVM_pic-mid/JVM08.PNG)
+### 透过字节码指令看代码细节
+## 虚拟机的基石：Class文件
+## Class文件结构
+## 使用javap指令解析Class文件
+### javap的用法
+### 使用举例
+### 总结
+# 二、字节码指令集与解析举例
+# 三、类的加载过程详解
+# 四、再谈类的加载器
