@@ -225,6 +225,14 @@
 >>> ![1](JVM_pic-mid/JVM140.PNG)
 >>> ![1](JVM_pic-mid/JVM141.PNG)
 ## 过程三：Initialization(初始化)阶段
+>> ![1](JVM_pic-mid/JVM142.PNG)
+### static与final的搭配问题
+>>> ![1](JVM_pic-mid/JVM143.PNG)
+### < clinit >()的线程安全性
+>>> ![1](JVM_pic-mid/JVM144.PNG)
+### 类的初始化情况：主动使用vs被动使用
+>>> ![1](JVM_pic-mid/JVM145.PNG)
+>>> ![1](JVM_pic-mid/JVM146.PNG)
 ## 过程四：类的Using(使用)
 ## 过程五：类的Unloading(卸载)
 ---
