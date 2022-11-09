@@ -80,6 +80,11 @@
 >> ![1](JavaSE、SSM、框架高级_pic/47.PNG)
 ---
 ---
-### SpringMVC中处理post请求中文乱码问题
+## SpringMVC中处理post请求中文乱码问题
 >> ![1](JavaSE、SSM、框架高级_pic/48.PNG)
 >> ![1](JavaSE、SSM、框架高级_pic/49.PNG)
+---
+---
+## SpringMVC的工作流程
+### 获取参数的过程
+>>> ![1](JavaSE、SSM、框架高级_pic/50.PNG)
