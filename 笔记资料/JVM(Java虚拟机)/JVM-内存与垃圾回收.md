@@ -637,8 +637,13 @@
 >> ![1](JVM_pic/JVM300.PNG)
 >> ![1](JVM_pic/JVM301.PNG)
 ## StringTable的垃圾回收
+---
+---
 ## G1中的String去重操作
 >> ![1](JVM_pic/JVM302.PNG)
 >> ![1](JVM_pic/JVM303.PNG)
 >> ![1](JVM_pic/JVM304.PNG)
 >> ![1](JVM_pic/JVM305.PNG)
+---
+---
+###

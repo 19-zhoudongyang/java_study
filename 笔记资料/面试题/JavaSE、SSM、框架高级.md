@@ -88,3 +88,58 @@
 ## SpringMVC的工作流程
 ### 获取参数的过程
 >>> ![1](JavaSE、SSM、框架高级_pic/50.PNG)
+---
+---
+## MyBatis中实体类的属性名和表中的字段名不一样如何处理
+### 写SQL语句时给字段起别名(别名与实体类属性名一致)
+>>> ![1](JavaSE、SSM、框架高级_pic/51.PNG)
+### 在MyBatis全局配置文件中开启驼峰命名规则
+>>> ![1](JavaSE、SSM、框架高级_pic/52.PNG)
+### 在Mapper映射文件中使用resultMap自定义映射规则
+>>> ![1](JavaSE、SSM、框架高级_pic/53.PNG)
+---
+---
+## Git分支相关命令
+>> ![1](JavaSE、SSM、框架高级_pic/54.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/55.PNG)
+---
+---
+## MySQL什么时候建索引
+>> ![1](JavaSE、SSM、框架高级_pic/56.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/57.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/58.PNG)
+---
+---
+## GC
+>> ![1](JavaSE、SSM、框架高级_pic/59.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/60.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/63.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/61.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/62.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/64.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/65.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/66.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/67.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/68.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/69.PNG)
+---
+---
+## 单点登录实现过程
+>> ![1](JavaSE、SSM、框架高级_pic/70.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/71.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/72.PNG)
+---
+---
+## 购物车实现过程
+>> ![1](JavaSE、SSM、框架高级_pic/73.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/74.PNG)
+---
+---
+## 消息队列在项目中的使用
+>> ![1](JavaSE、SSM、框架高级_pic/75.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/76.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/77.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/78.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/79.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/80.PNG)
+>> ![1](JavaSE、SSM、框架高级_pic/81.PNG)
