@@ -151,7 +151,6 @@
   - [intern()的使用](#intern的使用)
   - [StringTable的垃圾回收](#stringtable的垃圾回收)
   - [G1中的String去重操作](#g1中的string去重操作)
-    - [](#)
 
 <!-- /code_chunk_output -->
 
@@ -803,4 +802,3 @@
 >> ![1](JVM_pic/JVM305.PNG)
 ---
 ---
-###
