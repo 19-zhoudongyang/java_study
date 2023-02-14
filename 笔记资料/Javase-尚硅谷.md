@@ -723,7 +723,8 @@
                     {2}不同点：
                         [1]ArrayList是主要实现类(JDK1.2)，Vector是古老实现类(JDK1.0)
                         [2]ArrayList线程不安全，运行效率高；Vector线程安全，运行效率低
-                        [3]ArrayList、Vector底层使用Object[] elementData数组存储；LinkedList底层使用双向链表存储，对于频繁的插入删除操作，使用此类效率比ArrayList高；相对的，检索方面是ArrayList效率高，因为下标检索效率高
+                        [3]ArrayList、Vector底层使用Object[] elementData数组存储；LinkedList底层使用双向链表存储，对于频繁的插入删除操作，使用此类效率比ArrayList高；
+                        相对的，检索方面是ArrayList效率高，因为下标检索效率高
             (2)Set
                 *1.特点：元素无序(不等于随机性，指存储位置的无序)，不可重复(equals()比较,保证不能返回true)
                 *2.实现类：
